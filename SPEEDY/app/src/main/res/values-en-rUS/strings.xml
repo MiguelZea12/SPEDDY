@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPEEDY</string>
+    <string name="textView2">Height</string>
+    <string name="textView4">Weight</string>
+    <string name="resultsTV">Your body mass index is: %.2f</string>
+    <string name="healthyTV">your weight is: %s</string>
+</resources>

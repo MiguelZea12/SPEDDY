@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SPEEDY</string>
+    <string name="textView2">Estatura</string>
+    <string name="textView4">Peso</string>
+    <string name="resultsTV">Tu indice de masa corporal es: %.2f</string>
+    <string name="healthyTV">Tu peso es: %s</string>
+</resources>
